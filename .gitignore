@@ -1,5 +1,8 @@
-// don't include the auth file for security reasons
+# don't include the auth file for security reasons
 auth.json
 
-// don't include the node modules
+# don't include the node modules
 node_modules
+
+# don't include the times.json file
+times.json
