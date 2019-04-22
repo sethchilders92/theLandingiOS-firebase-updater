@@ -1,7 +1,7 @@
 {
   "name": "theLandingiOS-firebase-updater",
   "version": "1.0.0",
-  "description": "",
+  "description": "An easy way to update firebase through the console",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
