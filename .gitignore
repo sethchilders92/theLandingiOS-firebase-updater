@@ -1,0 +1,5 @@
+// don't include the auth file for security reasons
+auth.json
+
+// don't include the node modules
+node_modules
